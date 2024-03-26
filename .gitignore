@@ -1,0 +1,24 @@
+# Umbraco
+umbraco-headless/App_Data/
+umbraco-headless/umbraco/
+umbraco-headless/umbraco_client/
+umbraco-headless/umbraco_data/
+umbraco-headless/umbraco_html/
+umbraco-headless/umbraco_plugins/
+umbraco-headless/umbraco_tmp/
+umbraco-headless/umbraco_user/
+umbraco-headless/umbracoconfig/
+umbraco-headless/umbracoViews/
+umbraco-headless/umbracoWebApi/
+umbraco-headless/umbracoSettings.config
+umbraco-headless//bin/
+umbraco-headless/obj/
+
+# Angular
+angular-headless/node_modules/
+angular-headless/dist/
+angular-headless/e2e/
+angular-headless/src/environments/
+
+UmbracoAngularHeadless.sln
+```
